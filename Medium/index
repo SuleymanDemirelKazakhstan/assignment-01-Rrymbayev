@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tesla</title>
+    </head>
+    <body>
+        <center>
+            <table border ="1">
+                <td><h1>3 types of Tesla</h1></td>
+            </table>
+        </center>
+
+        <table border="1">
+            <tr><td colspan="2"><center><h1>Tesla Roadster (2020)</h1></center></td></tr>
+            <tr><td><img src="https://preview.free3d.com/img/2017/12/1703922921505818273/4beu3b7e-900.jpg" width="300px"> <p><a href="TeslaRoadster.html"><center>more photos</center></a></p></td>
+                <td>The Roadster has three electric motors, one in front and two at the rear, allowing for all-wheel drive, and torque vectoring during cornering. Tesla said that the vehicle had a 200 kWh (720 MJ) battery, twice the capacity of the largest battery in an existing Tesla car (in the Tesla Model S or Model X Performance or Long Range Plus). Tesla has said that the Roadster will have a 1,000 km (620 miles) range on a single charge at highway speeds. Tesla stated that the torque at wheels was 10,000 N⋅m (7,400 lb⋅ft). The rear wheels are larger than the front wheels.</td></tr>
+        </table>
+        <p></p>
+
+        <table border="1">
+            <tr><td colspan="2"><center><h1>Tesla Model X</h1></center></td></tr>
+            <tr><td><img src="https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-01.jpg" width="300px"> <p><a href="TeslaX.html"><center>more photos</center></a></p></td>
+                <td>The Tesla Model X is a mid-size all-electric luxury SUV made by Tesla, Inc. The vehicle is notable in that it uses falcon-wing doors for passenger access.
+
+                    The Model X was developed from the full-sized sedan platform of the Tesla Model S. The Model X has an EPA size class as an SUV,[7] and shares ~30% of its content with the Model S, half of the originally planned ~60%, and weighs about 10 percent more. Both the Model X and Model S are being produced at the Tesla Factory in Fremont, California. The prototype was unveiled at Tesla's design studios in Hawthorne, California on February 9, 2012. First deliveries of the Model X began in September 2015. After one full year on the market, in 2016, the Model X ranked seventh among the world's best-selling plug-in cars.</td></tr>
+        </table>
+        <p></p>
+
+        <table border="1">
+            <tr>
+                <td colspan="2"><center><h1>Tesla Model S</h1></center></td>
+            </tr>
+            <tr>
+                <td><img src="https://ev-database.org/img/auto/Tesla_Model_S_2016/Tesla_Model_S_2016-01.jpg" width="300px"> <p><a href="TeslaS.html"><center>more photos</center></a></p></td>
+
+                <td>The Tesla Model S is an all-electric five-door liftback sedan produced by Tesla, Inc., and was introduced on June 22, 2012. As of August 2020, the Model S Long Range Plus has an EPA range of 402 miles (647 km), higher than that of any other battery electric car.</p>
+
+                    Model S cars built from October 2014 have a feature called Autopilot, an advanced driver assistance system that allows the car to operate without assistance from the driver. However, the driver must supervise continuously and take control if there is an issue. Autopilot 2.0, introduced in October 2016, also includes “Enhanced Summon”, which allows the car to navigate through a parking lot to its owner without anyone in the driver's seat. Sentry mode, available on cars built after August 2017, senses and records suspicious activity around the car. </td>
+            </tr>
+        </table>
+    </body>
+</html>

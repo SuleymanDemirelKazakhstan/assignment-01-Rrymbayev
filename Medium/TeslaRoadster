@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tesla Roadster</title>
+</head>
+<body>
+    <div>
+        <img src = "https://i.ytimg.com/vi/wGKDsuxIkVg/maxresdefault.jpg" width="410px"/>
+        <img src = "https://cdn.slashgear.com/wp-content/uploads/2017/11/Roadster_Interior-1280x720.jpg" width="410px"/>
+        <img src = "https://cdn.slashgear.com/wp-content/uploads/2017/11/t0-1280x710.jpg" width="410px"/>
+    </div>
+    <div>
+        <img src = "https://cdn.slashgear.com/wp-content/uploads/2017/11/Roadster_Rear_34.jpg" width="410px"/>
+        <img src = "https://cdn.slashgear.com/wp-content/uploads/2017/11/Roadster_Steering_Wheel.jpg" width="410px">
+        <img src = "https://cdn.slashgear.com/wp-content/uploads/2017/11/Roadster_Targa_Open.jpg" width="410px"/>
+    </div>
+    <p></p>
+    <p></p>
+    <p></p>
+    <table>
+        <tr><td>Brand</td><td><strong style="margin-left: 300px;">Tesla</strong></td></tr>
+        <tr><td>Model</td><td><strong style="margin-left: 300px;">Roadster</strong></td></tr>
+        <tr><td>Production</td><td><strong style="margin-left: 300px;">November 16, 2017-present</strong></td></tr>
+        <tr><td>Price</td><td><strong style="margin-left: 300px;">$200 000</strong></td></tr>
+        <tr><td>Acceleration</td><td><strong style="margin-left: 300px;">0-100km/h 1.9sec</strong></td></tr>
+    </table>
+    Also, you can see <a href="TeslaX.html">Tesla Model X</a> and <a href="TeslaS.html"> Tesla Model S</a>.
+</body>
+</html>
