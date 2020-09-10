@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tesla Model X</title>
+    </head>
+    <body>
+        <div>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-01.jpg" width = "410px"/>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-02.jpg" width = "410px"/>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-05.jpg" width = "410px"/>
+        </div>
+        <div>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-04.jpg" width = "410px"/>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-03.jpg" width = "410px"/>
+            <img src = "https://ev-database.org/img/auto/Tesla_Model_X/Tesla_Model_X-28.jpg" width = "410px"/>
+        </div>
+        <p></p>
+        <p></p>
+        <p></p>
+        <table>
+            <tr><td>Brand</td><td><strong style="margin-left: 300px;">Tesla</strong></td></tr>
+            <tr><td>Model</td><td><strong style="margin-left: 300px;">X</strong></td></tr>
+            <tr><td>Production</td><td><strong style="margin-left: 300px;">February 9, 2012-present</strong></td></tr>
+            <tr><td>Price</td><td><strong style="margin-left: 300px;">$113,600-$151,900(Performance)</strong></td></tr>
+            <tr><td>Acceleration</td><td><strong style="margin-left: 300px;">0-100km/h 2.8sec(Performance) and 4.6sec</strong></td></tr>
+        </table>
+        Also, you can see <a href="TeslaS.html"> Tesla Model S</a> and <a href="TeslaRoadster.html">Tesla Roadster</a>.
+    </body>
+</html>
