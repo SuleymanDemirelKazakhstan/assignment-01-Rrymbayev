@@ -11,6 +11,7 @@
       name = Adilzhan<br/>
       surname = Rymbayev<br/>
       ID number = 190103110<br/>
+	age = 17<br/>
     </body>
 
   </html>
